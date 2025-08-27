@@ -30,4 +30,3 @@ jobs:
           channelId: live
           projectId: shefaa-clinic-app
 
-
